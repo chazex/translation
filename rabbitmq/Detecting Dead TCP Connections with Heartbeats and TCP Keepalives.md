@@ -1,3 +1,6 @@
+## 原址
+https://www.rabbitmq.com/heartbeats.html#heartbeats-interval
+
 ## Overview
 
 网络的失败原因很多，而且总是不易察觉(比如高丢包率)。中断的TCP链接需要一定的时间才能够被操作系统发现（在linux中，默认配置大约为11分钟）。 AMQP 0-9-1
